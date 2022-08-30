@@ -1,0 +1,15 @@
+[submodule "Disk-Scheduling-Simulator"]
+	path = Disk-Scheduling-Simulator
+	url = git@github.com:sagalpreet/Disk-Scheduling-Simulator.git
+[submodule "Deadlock-Detection-Simulator"]
+	path = Deadlock-Detection-Simulator
+	url = git@github.com:sagalpreet/Deadlock-Detection-Simulator.git
+[submodule "Dynamic-Memory-Partitioning"]
+	path = Dynamic-Memory-Partitioning
+	url = git@github.com:sagalpreet/Simulation-and-Analysis-of-Dynamic-Partitioning-Based-Memory-Placement.git
+[submodule "Dispatcher-Simulator"]
+	path = Dispatcher-Simulator
+	url = git@github.com:sagalpreet/Dispatcher-Simulator.git
+[submodule "GFS-GmailFS"]
+	path = GFS-GmailFS
+	url = git@github.com:sagalpreet/GFS-GmailFS.git

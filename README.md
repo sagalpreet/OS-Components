@@ -1,2 +1,3 @@
-# BASIC-like-Interpreter
-Interpreter for BASIC like language from scratch in python
+# OS Components
+
+This repo contains simulations and experiments related to Operating Systems.
